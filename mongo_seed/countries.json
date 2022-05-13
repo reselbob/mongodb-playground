@@ -1,0 +1,12 @@
+[
+    {"country": "USA", "continent": "North America"},
+    {"country": "Spain", "continent": "Europe"},
+    {"country": "Brazil", "continent": "South America"},
+    {"country": "Venezuela", "continent": "South America"},
+    {"country": "Japan", "continent": "Asia"},
+    {"country": "South Africa", "continent": "Africa"},
+    {"country": "Chile", "continent": "South America"}
+    {"country": "Ireland", "continent": "Europe"},
+    {"country": "Mexico", "continent": "North America"},
+    {"country": "Canada", "continent": "North America"}
+]
